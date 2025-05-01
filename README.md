@@ -58,6 +58,5 @@ Database: `pizza_db`
 ## Clone this repository
 
     ```bash
-    git clone https://github.com/your-username/pizza-sales-analysis.git
-    cd pizza-sales-analysis
-    ```
+    git clone https://github.com/Abhinav091214/pizza_sales/.git
+    cd pizza_sales
